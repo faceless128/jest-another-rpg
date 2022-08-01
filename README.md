@@ -11,4 +11,4 @@ Earn Random Drops In Battle
 Run the application and follow the prompts to play. Good Luck!
 
 ## Installation
-Clone the repository and install needed dependencies via NMP
+Clone the repository and install needed dependencies via NPM
